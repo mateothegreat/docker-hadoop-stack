@@ -1,0 +1,6 @@
+[submodule "runtime-compose"]
+	path = runtime-compose
+	url = https://github.com/flokkr/runtime-compose.git
+[submodule "docker-zeppelin"]
+	path = docker-zeppelin
+	url = https://github.com/flokkr/docker-zeppelin
