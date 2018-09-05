@@ -4,7 +4,9 @@
 
 ```bash
 
-make init
+$ git clone https://github.com/mateothegreat/docker-hadoop-stack
+$ cd docker-hadoop-stack
+$ make init
 
 ```
 
